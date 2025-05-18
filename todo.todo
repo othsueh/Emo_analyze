@@ -11,6 +11,8 @@ Making the dataset:
         - Needs to make dominant emotion for all split in all dataset
     ✔ Normalize the Activation, Valence of each dataset @started(25-05-18 12:27) @done(25-05-18 12:42) @lasted(15m59s)
     ✔ Remove Ambiguous data @done(25-05-18 13:38)
+    ✔ Making train & val together @done(25-05-18 20:45)
+    ✔ Separate test set @started(25-05-18 17:56) @done(25-05-18 18:24) @lasted(28m6s)
     ☐ eps is a hyper parameters
 Future Track:
     ☐ Is there really have data in test set?

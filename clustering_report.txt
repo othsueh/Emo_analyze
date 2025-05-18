@@ -1,0 +1,48 @@
+================================
+eps = 0.045
+========== frustrated ==========
+Clustering drop rate of Female: 94.0%
+Clustering drop rate of Male: 90.2%
+Overall clustering drop rate: 92.0%
+==========  neutral   ==========
+Clustering drop rate of Female: 0.6%
+Clustering drop rate of Male: 0.4%
+Clustering drop rate of Unknown: 1.2%
+Overall clustering drop rate: 0.6%
+==========   happy    ==========
+Clustering drop rate of Female: 1.4%
+Clustering drop rate of Male: 1.4%
+Clustering drop rate of Unknown: 1.9%
+Overall clustering drop rate: 1.5%
+==========   angry    ==========
+Clustering drop rate of Female: 8.0%
+Clustering drop rate of Male: 5.5%
+Clustering drop rate of Unknown: 5.9%
+Overall clustering drop rate: 6.5%
+==========  surprise  ==========
+Clustering drop rate of Female: 14.1%
+Clustering drop rate of Male: 12.2%
+Clustering drop rate of Unknown: 0.0%
+Overall clustering drop rate: 12.9%
+==========    sad     ==========
+Clustering drop rate of Female: 6.2%
+Clustering drop rate of Male: 6.2%
+Clustering drop rate of Unknown: 7.3%
+Overall clustering drop rate: 6.5%
+==========    fear    ==========
+Clustering drop rate of Female: 23.3%
+Clustering drop rate of Male: 36.6%
+Clustering drop rate of Unknown: 0.0%
+Overall clustering drop rate: 29.1%
+==========  disgust   ==========
+Clustering drop rate of Female: 22.5%
+Clustering drop rate of Male: 16.0%
+Clustering drop rate of Unknown: 0.0%
+Overall clustering drop rate: 18.6%
+==========  contempt  ==========
+Clustering drop rate of Female: 15.1%
+Clustering drop rate of Male: 8.5%
+Clustering drop rate of Unknown: 0.0%
+Overall clustering drop rate: 10.9%
+================================
+Total clustering drop rate: 4.6%
