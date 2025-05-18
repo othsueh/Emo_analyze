@@ -1,0 +1,16 @@
+Making Cluster:
+    ✔ Using DBSCAN on MSP-Podcast @started(25-04-23 11:12) @done(25-04-23 11:50) @lasted(38m51s)
+    ✔ Tune and Understand DBSCAN @started(25-04-23 11:53) @done(25-04-23 12:18) @lasted(25m58s)
+    ✔ Find the best setting? @started(25-04-23 12:19) @done(25-05-17 10:43) @lasted(3w2d22h24m48s)
+    ☐ Improve the efficieny of DBSCAN, over 10000 can't work
+
+Making the dataset:
+    ✔ What emotions to ignore? #No emotions to ignore @done(25-05-17 11:09)
+    ✔ Happy & Excited combine together @done(25-05-17 10:48)
+    ✔ Get the dominant emotion of all corpus @started(25-05-17 11:11) @done(25-05-18 12:26) @lasted(1d1h15m24s)
+        - Needs to make dominant emotion for all split in all dataset
+    ✔ Normalize the Activation, Valence of each dataset @started(25-05-18 12:27) @done(25-05-18 12:42) @lasted(15m59s)
+    ✔ Remove Ambiguous data @done(25-05-18 13:38)
+    ☐ eps is a hyper parameters
+Future Track:
+    ☐ Is there really have data in test set?
