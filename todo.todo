@@ -2,7 +2,7 @@ Making Cluster:
     ✔ Using DBSCAN on MSP-Podcast @started(25-04-23 11:12) @done(25-04-23 11:50) @lasted(38m51s)
     ✔ Tune and Understand DBSCAN @started(25-04-23 11:53) @done(25-04-23 12:18) @lasted(25m58s)
     ✔ Find the best setting? @started(25-04-23 12:19) @done(25-05-17 10:43) @lasted(3w2d22h24m48s)
-    ☐ Improve the efficieny of DBSCAN, over 10000 can't work
+    ✘ Improve the efficieny of DBSCAN, over 10000 can't work @cancelled(25-05-30 21:06)
 
 Making the dataset:
     ✔ What emotions to ignore? #No emotions to ignore @done(25-05-17 11:09)
@@ -15,4 +15,8 @@ Making the dataset:
     ✔ Separate test set @started(25-05-18 17:56) @done(25-05-18 18:24) @lasted(28m6s)
     ☐ eps is a hyper parameters
 Future Track:
-    ☐ Is there really have data in test set?
+    ✔ Is there really have data in test set? @done(25-05-30 21:06)
+New Jobs:
+    ✔ Making Total train & val set @done(25-05-30 21:33)
+    ✔ Adjust the emotion in whole test set @done(25-05-30 21:33)
+    ✔ Making Total train & val set (other eps) @done(25-05-30 21:44)
