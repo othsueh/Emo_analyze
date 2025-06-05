@@ -255,7 +255,7 @@ def apply_dbscan_clustering(df, emotion, eps=0.01, min_samples=15):
     print(f"Number of clusters: {num_clusters}")
     print(f"Total points: {len(clusters)}")
     
-    return emotion_data, clusters
+    return emotion_data, X ,clusters
 
 def plot_emotion_clusters(df, emotion, eps=0.1, min_samples=15):
     """
